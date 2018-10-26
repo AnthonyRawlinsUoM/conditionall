@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ConditionAll
+Comment=Landscape Fuel Moisture Condition
+Icon=com.github.anthonyrawlinsuom.conditionall
+Exec=com.github.anthonyrawlinsuom.conditionall
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;
+Keywords=app;vala;

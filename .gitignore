@@ -1,0 +1,7 @@
+build/*
+debian/build/*
+debian/com.github.anthonyrawlinsuom.conditionall.debhelper.log
+debian/com.github.anthonyrawlinsuom.conditionall.substvars
+debian/com.github.anthonyrawlinsuom.conditionall/
+debian/debhelper-build-stamp
+debian/files
